@@ -1,0 +1,132 @@
+{
+  "Apple scab": {
+    "english": {
+      "name": "Apple Scab",
+      "description": "Olive-green or brown scabby spots on leaves/fruits.",
+      "organic": "Neem oil spray every 7 days. Burn fallen leaves.",
+      "chemical": "Captan or Mancozeb fungicide every 10 days.",
+      "prevention": "Prune for airflow. Rake fallen leaves.",
+      "severity": "Medium"
+    },
+    "hindi": {
+      "name": "सेब की पपड़ी (एप्पल स्कैब)",
+      "description": "पत्तियों और फलों पर जैतून-हरे या भूरे पपड़ीदार धब्बे।",
+      "organic": "हर 7 दिन में नीम तेल छिड़कें। पत्तियां जलाएं।",
+      "chemical": "Captan या Mancozeb फफूंदनाशक छिड़कें।",
+      "prevention": "रोगरोधी किस्में लगाएं। गिरी पत्तियां नष्ट करें।",
+      "severity": "मध्यम"
+    },
+    "marathi": {
+      "name": "सफरचंद खरूज",
+      "description": "पाने आणि फळांवर जैतून-हिरवे किंवा तपकिरी खरुजाचे डाग.",
+      "organic": "दर ७ दिवसांनी कडुनिंब तेल फवारा.",
+      "chemical": "Captan किंवा Mancozeb बुरशीनाशक फवारा.",
+      "prevention": "गळलेली पाने नष्ट करा.",
+      "severity": "मध्यम"
+    }
+  },
+  "Apple Black rot": {
+    "english": {
+      "name": "Apple Black Rot",
+      "description": "Purple-bordered circular spots; fruit rots black from core.",
+      "organic": "Prune dead wood and remove mummified fruit.",
+      "chemical": "Captan or Thiophanate-methyl application.",
+      "prevention": "Prune dead wood annually. Disinfect tools.",
+      "severity": "High"
+    },
+    "hindi": {
+      "name": "सेब काला सड़न",
+      "description": "बैंगनी किनारों वाले घाव। फल अंदर से काले होकर सड़ते हैं।",
+      "organic": "संक्रमित फल हटाएं। तांबे का घोल छिड़कें।",
+      "chemical": "Captan या Thiophanate-methyl लगाएं।",
+      "prevention": "हर साल मृत लकड़ी काटें।",
+      "severity": "गंभीर"
+    },
+    "marathi": {
+      "name": "सफरचंद काळी कूज",
+      "description": "पानांवर जांभळ्या कडांचे व्रण. फळे आतून कुजतात.",
+      "organic": "संक्रमित फळे लगेच काढा.",
+      "chemical": "Captan किंवा Thiophanate-methyl लावा.",
+      "prevention": "दरवर्षी मृत लाकूड कापा.",
+      "severity": "गंभीर"
+    }
+  },
+  "Tomato Early blight": {
+    "english": {
+      "name": "Tomato Early Blight",
+      "description": "Dark brown concentric target rings on older leaves.",
+      "organic": "Neem oil + baking soda spray. Mulch base.",
+      "chemical": "Copper Oxychloride or Mancozeb every 7 days.",
+      "prevention": "Avoid overhead watering. Rotate crops.",
+      "severity": "Medium to High"
+    },
+    "hindi": {
+      "name": "टमाटर अर्ली ब्लाइट",
+      "description": "पुरानी पत्तियों पर गोल भूरे लक्ष्य जैसे धब्बे।",
+      "organic": "नीम तेल + बेकिंग सोडा छिड़कें।",
+      "chemical": "Copper Oxychloride या Mancozeb हर 7 दिन में।",
+      "prevention": "पौधों में दूरी रखें। ऊपर से पानी न दें।",
+      "severity": "मध्यम से गंभीर"
+    },
+    "marathi": {
+      "name": "टोमॅटो लवकर करपा",
+      "description": "जुन्या पानांवर गडद तपकिरी लक्ष्याकृती डाग.",
+      "organic": "कडुनिंब तेल + बेकिंग सोडा फवारा.",
+      "chemical": "Copper Oxychloride किंवा Mancozeb दर ७ दिवसांनी.",
+      "prevention": "झाडांमध्ये अंतर ठेवा.",
+      "severity": "मध्यम ते गंभीर"
+    }
+  },
+  "Tomato Late blight": {
+    "english": {
+      "name": "Tomato Late Blight",
+      "description": "Water-soaked patches turning black with white mold underneath.",
+      "organic": "Uproot and burn infected plants immediately.",
+      "chemical": "Metalaxyl + Mancozeb spray immediately.",
+      "prevention": "Ensure good drainage. Keep leaves dry.",
+      "severity": "⚠️ CRITICAL"
+    },
+    "hindi": {
+      "name": "टमाटर लेट ब्लाइट",
+      "description": "पानी जैसे धब्बे जो जल्दी काले पड़ते हैं। तेजी से फैलता है।",
+      "organic": "रोगी पौधे तुरंत जलाएं। Copper Sulfate छिड़कें।",
+      "chemical": "Metalaxyl + Mancozeb तुरंत छिड़कें।",
+      "prevention": "पत्तियां सूखी रखें। जल निकासी ठीक रखें।",
+      "severity": "⚠️ अत्यंत गंभीर"
+    },
+    "marathi": {
+      "name": "टोमॅटो उशिरा करपा",
+      "description": "मोठे डाग जे लवकर काळे पडतात. वेगाने पसरतो.",
+      "organic": "रोगट झाडे लगेच जाळा.",
+      "chemical": "Metalaxyl + Mancozeb लगेच फवारा.",
+      "prevention": "पाने कोरडी ठेवा. चांगला निचरा ठेवा.",
+      "severity": "⚠️ अत्यंत गंभीर"
+    }
+  },
+  "Tomato healthy": {
+    "english": {
+      "name": "Healthy Tomato Plant",
+      "description": "Plant is vigorous with no symptoms.",
+      "organic": "Continue balanced organic nutrients.",
+      "chemical": "No chemical treatment needed.",
+      "prevention": "Weekly inspection.",
+      "severity": "✅ Healthy"
+    },
+    "hindi": {
+      "name": "स्वस्थ टमाटर पौधा",
+      "description": "पौधा पूरी तरह स्वस्थ है।",
+      "organic": "संतुलित देखभाल जारी रखें।",
+      "chemical": "कोई उपचार जरूरी नहीं।",
+      "prevention": "साप्ताहिक जांच करते रहें।",
+      "severity": "✅ स्वस्थ"
+    },
+    "marathi": {
+      "name": "निरोगी टोमॅटो झाड",
+      "description": "झाड पूर्णपणे निरोगी आहे.",
+      "organic": "नियमित काळजी सुरू ठेवा.",
+      "chemical": "उपचार आवश्यक नाही.",
+      "prevention": "दर आठवड्याला तपासा.",
+      "severity": "✅ निरोगी"
+    }
+  }
+}
